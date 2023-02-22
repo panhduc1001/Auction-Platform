@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{570BA8E7-FA54-4468-BE1A-C39DEE289B6F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Current/AuctionHouse.cs">
+    <Files>
+      <File FileName="Current/UserInterface.cs" Line="1" Column="1" />
+      <File FileName="Current/Customer.cs" Line="1" Column="1" />
+      <File FileName="Current/checklist.txt" Line="1" Column="1" />
+      <File FileName="Current/Item.cs" Line="1" Column="1" />
+      <File FileName="Current/Password.cs" Line="1" Column="1" />
+      <File FileName="Current/Bid.cs" Line="1" Column="1" />
+      <File FileName="Current/AuctionHouse.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Current" expanded="True">
+            <Node name="Current" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Current PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

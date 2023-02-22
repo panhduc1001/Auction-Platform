@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5FZ5wixTAMQZTXHjG3sz9NV39iRyyNm3jHksNnLFbx6s6H6NWx3eSSRjwJv4PqKYV+8ZMMgdjKE9pO7fsW1h7g==",
+  "success": true,
+  "projectFilePath": "/Users/duc/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/CAB201/Assessment 2/Assessment 2/Assignment/Current/Current.csproj",
+  "expectedPackageFiles": [
+    "/Users/duc/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512",
+    "/Users/duc/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

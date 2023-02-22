@@ -1,0 +1,7 @@
+Checklist: 
++ AuctionHouse (Completed) 
++ Bid (Completed)
++ Customer (Completed)
++ Item (Completed)
++ Password (Completed)
++ UserInterface (Completed)
